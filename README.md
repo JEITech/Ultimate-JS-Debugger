@@ -1,4 +1,2 @@
 # Ultimate-JS-Debugger
-Place this snippet in your code to fix bugs \n
-or \n
-Run this command to fix bugs
+Place the snippet in your code to fix bugs.  If that fails, just run the command from your computers root directory.
